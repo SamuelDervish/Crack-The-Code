@@ -106,7 +106,7 @@ function selectWinner(){
             setTimeout(()=>{
                 resultBox.classList.add("show");
                 playBoard.classList.remove("show");
-            }, 700); //1s = 1000ms
+            }, 700);
             wonText.textContent = "Match has been drawn!";
         }
     }
