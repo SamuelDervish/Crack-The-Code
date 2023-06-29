@@ -136,6 +136,7 @@ input {
     align-items: center;
     justify-content: space-between;
     padding: 30px;
+	text-align: center;
 }
 .footer-bottom .copyright p{
     color: #cecaca;
