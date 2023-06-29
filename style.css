@@ -1,9 +1,10 @@
-/* Write CSS Here */
-body {
-	text-align: center;
+* {
+	font-family: 'Yeon Sung', cursive;
 }
-.geeks {
-	font-size: 40px;
-	font-weight: bold;
-	color: green;
+
+input {
+	width: 60px;
+	height: 40px;
+	border-radius: 5px;
+	text-align: center;
 }
