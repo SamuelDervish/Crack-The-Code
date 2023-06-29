@@ -1,5 +1,5 @@
 * {
-	font-family: 'Yeon Sung', cursive;
+	font-family: 'Poppins', sans-serif;
 }
 
 input {
@@ -8,8 +8,6 @@ input {
 	border-radius: 5px;
 	text-align: center;
 }
-
-
 
 .loaded #loader-wrapper {
 	visibility: hidden;
