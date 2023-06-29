@@ -130,7 +130,10 @@ input {
   
 
 
-  .bg-grey {
+  body {
+	font-family: 'Signika', sans-serif;
+ }
+ .bg-grey {
 	background: #292929;
  }
  .logo-footer {
