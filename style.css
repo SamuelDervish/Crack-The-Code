@@ -223,3 +223,22 @@ color: #f5f5f5 !important;
 border-right: 1px solid grey;
 height: 100%;
 }
+
+
+
+.footer-bottom{
+    background-color: #171d21;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px;
+}
+.footer-bottom .copyright p{
+    color: #cecaca;
+    font-size: 13px;
+    font-weight: 500;
+}
+.footer-bottom .copyright a{
+    color: red;
+    text-decoration: none;
+}
