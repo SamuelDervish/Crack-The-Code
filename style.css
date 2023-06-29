@@ -140,9 +140,11 @@ input {
 .footer-bottom .copyright p{
     color: #cecaca;
     font-size: 13px;
+	align-items: center;
     font-weight: 500;
 }
 .footer-bottom .copyright a{
     color: red;
+	align-items: center;
     text-decoration: none;
 }
